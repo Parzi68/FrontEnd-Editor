@@ -2,7 +2,7 @@ body{
   margin: 0;
 }
 .top-pane{
-  background-color: #181a1c;
+  background-color: #242424;
 
 }
 .pane{
@@ -15,4 +15,27 @@ body{
   flex-basis: 0;
   display: flex;
   flex-direction: column;
+  padding: .5rem;
+  background-color: #242424;
+}
+
+.editor-title{
+  display: flex;
+  justify-content: space-between;
+  background-color: #171717;
+  color: #fff;
+  padding: .5rem .5rem .5rem 1rem;
+  border-top-right-radius: .5rem;
+  border-top-left-radius: .5rem;
+}
+
+.CodeMirror{
+  height: 100% !important;
+}
+
+.code-mirror-wrapper{
+  flex-grow: 1;
+  border-bottom-right-radius: .5rem;
+  border-bottom-left-radius: .5rem;
+  overflow: hidden;
 }
