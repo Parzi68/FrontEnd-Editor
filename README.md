@@ -33,7 +33,7 @@ Make sure you have the following installed:
 2. Change to the project directory:
 
     ```bash
-    cd online-front-end-editor
+    cd frontend-editor
 
 3. Install dependencies:
 
@@ -49,9 +49,7 @@ Make sure you have the following installed:
 
 ### Usage 🚀
 
-## Code Editing: 
-Use the three code panels to write your HTML, CSS, and JavaScript code. The live preview will update in real-time.
-## Auto-save:
-Code is saved automatically, so if you accidently closed the browser or accidently refreshed the page; the work you did does not go in vain! 😌
+* Code Editing: Use the three code panels to write your HTML, CSS, and JavaScript code. The live preview will update in real-time.
+* Auto-save: Code is saved automatically, so if you accidently closed the browser or accidently refreshed the page; the work you did does not go in vain! 😌
 
 🌟 Happy coding! 🌟
